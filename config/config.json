@@ -15,9 +15,9 @@
   },
   "production": {
     "username": "root",
-    "password": null,
+    "password": "5OvIv_22QBPYVkMdHvfBttxMoyJZ5GZC",
     "database": "database_production",
-    "host": "127.0.0.1",
+    "host": "postgres://eylzxmeg:5OvIv_22QBPYVkMdHvfBttxMoyJZ5GZC@mahmud.db.elephantsql.com/eylzxmeg",
     "dialect": "postgres"
   }
 }
